@@ -2,7 +2,7 @@ const router = require('express').Router();
 const { noteCreate, noteDelete } = require('../../lib/notes');
 
 router.get('/notes', (req, res) => {
-    let newNote = notes;
+    let newNote = req.body;
     res.json(newNote);
 })
 
