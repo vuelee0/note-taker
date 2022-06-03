@@ -1,6 +1,13 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Camping Trip",
+      "text": "Tents\nSmores\nCamping Chair\n"
+    },
+    {
+      "title": "Grocery List",
+      "text": "Cheese\nCoffee",
+      "id": "1"
     }
-]
+  ]
+}
