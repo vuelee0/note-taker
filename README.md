@@ -22,3 +22,10 @@ Use this project to write down notes.
 For any questions about this project, contact me at:
 - Github: [vuelee0](https://github.com/vuelee0)
 - Email: vuelee09@gmail.com
+
+## Deployed Application
+https://limitless-castle-80176.herokuapp.com/
+
+## Screenshots
+![image](./public/assets/images/note-taker-ss-1.png)
+![image](./public/assets/images/note-taker-ss-2.png)
